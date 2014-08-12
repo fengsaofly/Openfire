@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<!-- Main plugin class  -->
+	<class>com.flyln.plugin.FlylnLBSPlugin</class>
+	<!-- Plugin meta-data -->
+	<name>FlylnLBS Plugin</name>
+	<description>This is the Flyln LBS plugin.</description>
+	<author>Flyln</author>
+ 
+	<version>1.0</version>
+	<date>7/4/2014</date>
+	<url>http://localhost:9090/openfire/plugins.jsp</url>
+	<minServerVersion>3.9.0</minServerVersion>
+ 
+	<adminconsole>    
+    </adminconsole>
+    
+    <databaseKey>flylnlbs</databaseKey>
+    
+    <databaseVersion>0</databaseVersion>
+    
+    
+</plugin>
